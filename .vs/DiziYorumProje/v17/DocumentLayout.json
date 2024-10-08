@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\kategoridetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\kategoridetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|c:\\users\\eren\\source\\repos\\diziyorumproje\\diziyorumproje\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\web2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\web2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\blogdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\blogdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\kategoridetay.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\kategoridetay.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\kategoridetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\kategoridetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\diziyorumproje\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EF801DA7-17F4-4454-9B60-3F8751C281D6}|DiziYorumProje\\DiziYorumProje.csproj|solutionrelative:diziyorumproje\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\istatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DiziYorumProje\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-16T15:47:21.282Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Login.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Login.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Login.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-15T14:16:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Default.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Default.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Default.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T15:16:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\web2\\index.html",
+              "RelativeDocumentMoniker": "DiziYorumProje\\web2\\index.html",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\web2\\index.html",
+              "RelativeToolTip": "DiziYorumProje\\web2\\index.html",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-15T14:17:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Default.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Default.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:33:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KategoriDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\KategoriDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\KategoriDetay.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:33:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\BlogDetay.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\BlogDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\BlogDetay.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\BlogDetay.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:35:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KategoriDetay.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\KategoriDetay.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx.designer.cs",
+              "RelativeToolTip": "DiziYorumProje\\KategoriDetay.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:35:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KategoriDetay.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\KategoriDetay.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\KategoriDetay.aspx",
+              "RelativeToolTip": "DiziYorumProje\\KategoriDetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T15:22:51.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "istatistik.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\istatistik.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\istatistik.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T12:30:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "istatistik.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\istatistik.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:38:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin.Master",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin.Master",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin.Master",
+              "RelativeToolTip": "DiziYorumProje\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T17:13:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Yorumlar.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\Yorumlar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T15:40:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogGuncelle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:06:55.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YorumGuncelle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:12:35.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YorumGuncelle.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YorumGuncelle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T12:00:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogGuncelle.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T13:48:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogGuncelle.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogGuncelle.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:32:23.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YeniBlog.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T09:02:51.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YorumSil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:01:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogSil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:38:20.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YorumSil.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YorumSil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T16:59:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BlogSil.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:18:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bloglar.aspx",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T08:16:12.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "YeniBlog.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBQwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:01:03.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlogSil.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\BlogSil.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:45:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bloglar.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\Bloglar.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:43:21.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "YeniBlog.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Eren\\source\\repos\\DiziYorumProje\\DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs",
+              "RelativeToolTip": "DiziYorumProje\\Admin Sayfalar\\YeniBlog.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:40:48.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
